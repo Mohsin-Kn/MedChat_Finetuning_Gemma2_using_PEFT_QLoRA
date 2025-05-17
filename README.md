@@ -5,8 +5,6 @@
 
 Fine-tune Google's Gemma 2B model using QLoRA to develop medical question-answering capabilities based on structured meaning representations.
 
-This project provides a modular structure for fine-tuning the Gemma2 model using LoRA adapters on a CPU. The implementation is divided into multiple modules to ensure reusability, clarity, and scalability.
-
 ## Project Structure
 
 ```
@@ -75,7 +73,3 @@ This will:
 - [QLoRA Paper](https://arxiv.org/abs/2305.14314)
 - [Practical QLoRA Guide](https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07)
 - [LoRA/QLoRA Explained](https://www.mercity.ai/blog-post/guide-to-fine-tuning-llms-with-lora-and-qlora)
-
-## License
-
-MIT License. See `LICENSE` for more information.
