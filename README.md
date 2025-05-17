@@ -70,6 +70,16 @@ This will:
 * Fine-tune the model using the provided dataset.
 * Save the fine-tuned model and adapters in the `./gemma2_finetuned` directory.
 
+##Learning Resources
+
+Learn more about QLoRA:
+
+QLoRA Paper
+
+Practical QLoRA Guide
+
+LoRA/QLoRA Explained
+
 ## License
 
 MIT License. See `LICENSE` for more information.
