@@ -70,15 +70,12 @@ This will:
 * Fine-tune the model using the provided dataset.
 * Save the fine-tuned model and adapters in the `./gemma2_finetuned` directory.
 
-## Learning Resources
+![QLoRA Architecture](https://miro.medium.com/v2/resize:fit:1400/1*Wl4ve7ZR4z9w7HXh0qYUjw.png)
 
 Learn more about QLoRA:
-
-QLoRA Paper
-
-Practical QLoRA Guide
-
-LoRA/QLoRA Explained
+- [QLoRA Paper](https://arxiv.org/abs/2305.14314)
+- [Practical QLoRA Guide](https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07)
+- [LoRA/QLoRA Explained](https://abvijaykumar.medium.com/fine-tuning-llm-parameter-efficient-fine-tuning-peft-lora-qlora-part-1-571a472612c4)
 
 ## License
 
