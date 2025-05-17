@@ -57,7 +57,7 @@ This project uses the `ngram/medchat-qa` dataset from Hugging Face. The dataset 
 To initiate the fine-tuning process, run the following command:
 
 ```bash
-python main.py
+python app.py
 ```
 
 This will:
@@ -66,6 +66,7 @@ This will:
 * Initialize the Gemma2 model and tokenizer.
 * Apply LoRA adapters.
 * Fine-tune the model using the provided dataset.
+* Launch the Gradio interface for interaction.
 * Save the fine-tuned model and adapters in the `./gemma2_finetuned` directory.
 
 
