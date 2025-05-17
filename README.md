@@ -10,7 +10,6 @@ This project provides a modular structure for fine-tuning the Gemma2 model using
 ## Project Structure
 
 ```
-gemma2-finetune/
 ├── data/
 │   └── dataset.py
 ├── model/
