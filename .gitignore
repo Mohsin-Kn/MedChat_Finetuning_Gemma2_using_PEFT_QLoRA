@@ -1,0 +1,5 @@
+
+/gemma2-finetuned/
+
+# Dataset cache
+.data/
